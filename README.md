@@ -58,6 +58,8 @@ Provide a clear, structured, and reusable engineering methodology for pump selec
 
 ## 🧑‍🔧 Author
 
+Ing. César Tapia Aguilar. 
+
 **Mechanical Engineer | Hydraulic Systems | Pump Design**
 
 ---
